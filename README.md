@@ -8,7 +8,7 @@ A stylish calculator built with **HTML, CSS, and JavaScript** featuring a modern
 - Animated gradient background
 - Functional calculator logic in JS
 
-# Preview
+# Screenshot
 ![screenshot](calculator_screenshot.PNG)
 
 # How to Use
